@@ -23,7 +23,7 @@
 
 ## :memo: Table of Contents
 
-- [What is this?](#What-is-this?)
+- [What is this?](#what-is-this)
 - [면접에서 받았던 질문들](#면접에서-받았던-질문들)
 - [Part 1. 전산 기초](#part-1-전산-기초)
   - [개발상식](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Development_common_sense)
