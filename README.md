@@ -23,9 +23,9 @@
 
 ## :memo: Table of Contents
 
-- [What is this?](#what-is-this?)
+- [What is this?](#What-is-this?)
 - [면접에서 받았던 질문들](#면접에서-받았던-질문들)
-- [Part 1. CS](#part-1-전산-기초)
+- [Part 1. 전산 기초](#part-1-전산-기초)
   - [개발상식](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Development_common_sense)
   - [자료구조](https://github.com/jiyeonkim7/for_beginner/tree/master/DataStructure)
   - [네트워크](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Network)
@@ -62,7 +62,6 @@
 
 </br>
 
----
 
 ### [면접에서 받았던 질문들](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/issues/59)
 
