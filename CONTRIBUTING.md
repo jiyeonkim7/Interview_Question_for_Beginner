@@ -20,7 +20,7 @@ fork 해간 repository 를 local directory 에 clone 해주세요!
 
 ```bash
 # in your workspace
-$ git clone https://github.com/JaeYeopHan/Interview_Question_for_Beginner interview
+$ git clone https://github.com/jiyeonkim7/Interview_Question_for_Beginner interview
 $ cd interview
 ```
 
@@ -50,7 +50,7 @@ Pull Request 를 등록했는데, conflict 가 있어서 auto merge 가 안된�
 
 ```bash
 # in Interview_Question_for_Beginner
-$ git remote add --track master upstream https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+$ git remote add --track master upstream https://github.com/jiyeonkim7/Interview_Question_for_Beginner
 $ git fetch upstream
 $ git rebase upstream/master
 # (resolve conflict in your editor)
@@ -59,7 +59,7 @@ $ git rebase --continue
 $ git push -f origin master
 ```
 
-- 참고자료 : [많은 Git 커맨드 중 정말 필요한 것만 정리한 내용](https://github.com/JaeYeopHan/Minimal_Git_command)
+- 참고자료 : [많은 Git 커맨드 중 정말 필요한 것만 정리한 내용](https://github.com/jiyeonkim7/Minimal_Git_command)
 
 ### Issue 를 통한 Contribute
 

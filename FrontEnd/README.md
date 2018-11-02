@@ -11,7 +11,7 @@
 * [CSS Methodology](#css-methodology)
 * [normalize.css vs reset.css](#normalize-vs-reset)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)
 
 ## 브라우저의 동작 원리
 
@@ -27,7 +27,7 @@
 * [Web fundamentals - Critical-rendering-path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=ko)
 * [브라우저의 Critical path (한글)](http://m.post.naver.com/viewer/postView.nhn?volumeNo=8431285&memberNo=34176766)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-1-front-end)
 
 </br>
 
@@ -58,7 +58,7 @@
 * [Cross-Origin-Resource-Sharing 에 대해서](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
 * [구루비 - CORS 에 대해서](http://wiki.gurubee.net/display/SWDEV/CORS+%28Cross-Origin+Resource+Sharing%29)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-1-front-end)
 
 </br>
 
@@ -70,7 +70,7 @@
 
 * [크로스 브라우징 이슈에 대응하는 프론트엔드 개발자들의 전략](http://asfirstalways.tistory.com/237)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-1-front-end)
 
 </br>
 
@@ -130,7 +130,7 @@
 
 * [HTML5 앱과 웹사이트를 보다 빠르게 하는 50 가지 - yongwoo Jeon](https://www.slideshare.net/mixed/html5-50)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-1-front-end)
 
 </br>
 
@@ -139,7 +139,7 @@
 * 그림과 함께 설명하기 위해 일단 블로그 링크를 추가한다.
 * http://asfirstalways.tistory.com/244
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-1-front-end)
 
 </br>
 
@@ -196,7 +196,7 @@
 * [CSS 방법론 SMACSS 에 대해 알아보자](https://brunch.co.kr/@larklark/1)
 * [BEM 에 대해서](https://en.bem.info/)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-1-front-end)
 
 </br>
 
@@ -214,7 +214,7 @@
 
 즉, `normalize.css`는 모든 것을 "해제"하기보다는 유용한 기본값을 보존하는 것이다. 예를 들어, sup 또는 sub 와 같은 요소는 `normalize.css`가 적용된 후 바로 기대하는 스타일을 보여준다. 반면 `reset.css`를 포함하면 시각적으로 일반 텍스트와 구별 할 수 없다. 또한 normalize.css 는 reset.css 보다 넓은 범위를 가지고 있으며 HTML5 요소의 표시 설정, 양식 요소의 글꼴 상속 부족, pre-font 크기 렌더링 수정, IE9 의 SVG 오버플로 및 iOS 의 버튼 스타일링 버그 등에 대한 이슈를 해결해준다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-1-front-end)
 
 </br>
 

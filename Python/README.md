@@ -8,7 +8,7 @@
 * [PyPy 가 CPython 보다 빠른 이유](#pypy가-cpython보다-빠른-이유)
 * [메모리 누수가 발생할 수 있는 경우](#메모리-누수가-발생할-수-있는-경우)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)
 
 ## Generator
 
@@ -86,7 +86,7 @@ List, Set, Dict 표현식은 iterable(이터러블)하기에 for 표현식 등�
 * [Generator 와 yield 키워드](https://item4.github.io/2016-05-09/Generator-and-Yield-Keyword-in-Python/)
 * [Iterator 와 Generator](http://pythonstudy.xyz/python/article/23-Iterator%EC%99%80-Generator)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-3-python)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-2-3-python)
 
 </br>
 
@@ -122,7 +122,7 @@ Python 2.3 이후 위 이미지와 같은 상속을 시도하려하면 `TypeErro
 * [Python 2.3 이후의 MRO 알고리즘에 대한 파이썬 공식 문서](https://www.python.org/download/releases/2.3/mro/)
 * [What is a method in python](https://stackoverflow.com/questions/3786881/what-is-a-method-in-python/3787670#3787670)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-3-python)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-2-3-python)
 
 </br>
 
@@ -150,7 +150,7 @@ GIL 은 스레드에서 사용되는 Lock 을 인터프리터 레벨로 확장�
 * [Python GIL](https://medium.com/@mjhans83/python-gil-f940eac0bef9)
 * [Old GIL 과 New GIL](https://blog.naver.com/parkjy76/30167429369)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-3-python)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-2-3-python)
 
 </br>
 
@@ -546,7 +546,7 @@ Foo(0).y = Foo(2)
 * [How does garbage collection in Python work](https://www.quora.com/How-does-garbage-collection-in-Python-work-What-are-the-pros-and-cons)
 * [gcmodule.c](https://github.com/python/cpython/blob/master/Modules/gcmodule.c)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-3-python)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-2-3-python)
 
 </br>
 
@@ -560,7 +560,7 @@ Foo(0).y = Foo(2)
 * [[번역]셀러리 입문하기](https://beomi.github.io/2017/03/19/Introduction-to-Celery/)
 * [Python Celery with Redis](http://dgkim5360.tistory.com/entry/python-celery-asynchronous-system-with-redis)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-3-python)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-2-3-python)
 
 </br>
 
@@ -591,7 +591,7 @@ PyPy 는 파이썬으로 만들어진 파이썬 인터프리터다. 일반적으
 * [알파희 - PyPy/RPython 으로 20 배 빨라지는 아희 JIT 인터프리터](https://www.slideshare.net/YunWonJeong/pypyrpython-20-jit)
 * [PyPy 가 CPython 보다 빠를 수 있는 이유 - 홍민희](https://blog.hongminhee.org/2011/05/02/5124874464/)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-3-python)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-2-3-python)
 
 </br>
 
@@ -619,7 +619,7 @@ def foo(a=[]):
 * [파이썬에서 메모리 누수가 발생할 수 있는 경우 - memorable](https://memorable.link/link/189)
 * [약한 참조 사용하기](https://soooprmx.com/archives/5074)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-3-python)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-2-3-python)
 
 </br>
 

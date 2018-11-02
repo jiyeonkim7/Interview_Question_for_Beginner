@@ -49,7 +49,7 @@ A : 넵! 안됩니다^^
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-2-ios)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-2-ios)
 
 </br>
 
@@ -75,7 +75,7 @@ A : 넵! 안됩니다^^
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-2-ios)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-2-ios)
 
 </br>
 
@@ -91,7 +91,7 @@ Notification 은 이벤트에 대해 여러 리스너가 있을 때 사용하면
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-2-ios)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-2-ios)
 
 </br>
 
@@ -118,7 +118,7 @@ Notification 은 이벤트에 대해 여러 리스너가 있을 때 사용하면
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-2-ios)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-2-ios)
 
 </br>
 
@@ -134,7 +134,7 @@ A : 마지막 강한 참조가 더 이상 객체를 가리키지 않으면 객�
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-2-ios)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-2-ios)
 
 </br>
 
@@ -145,7 +145,7 @@ A : 마지막 강한 참조가 더 이상 객체를 가리키지 않으면 객�
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-2-ios)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-2-ios)
 
 </br>
 
@@ -197,6 +197,6 @@ A : 마지막 강한 참조가 더 이상 객체를 가리키지 않으면 객�
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-2-ios)
+[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#part-3-2-ios)
 
 </br>

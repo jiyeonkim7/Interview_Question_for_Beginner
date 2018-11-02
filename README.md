@@ -9,11 +9,11 @@
 <div align=center>
 
 [![author](https://img.shields.io/badge/author-jbee-ff69b4.svg?style=flat-square)](http://friendly-belief.surge.sh/)
-[![CONTRIBUTORS](https://img.shields.io/badge/contributors-36-green.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
-[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/LICENSE)
+[![CONTRIBUTORS](https://img.shields.io/badge/contributors-36-green.svg?style=flat-square)](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/blob/master/LICENSE)
 [![HitCount](http://hits.dwyl.io/JaeYeopHan/Interview_Question_for_Beginner.svg)](http://hits.dwyl.io/JaeYeopHan/Interview_Question_for_Beginner)
 
-<a href="https://github.com/JaeYeopHan/Interview_Question_for_Beginner/graphs/contributors"><img src="https://opencollective.com/interview_question_for_beginner/contributors.svg?width=720"></a>
+<a href="https://github.com/jiyeonkim7/Interview_Question_for_Beginner/graphs/contributors"><img src="https://opencollective.com/interview_question_for_beginner/contributors.svg?width=720"></a>
 
 </div>
 
@@ -26,20 +26,20 @@
 - [What is this?](#what-is-this?)
 - [면접에서 받았던 질문들](#면접에서-받았던-질문들)
 - [Part 1. CS](#part-1-전산-기초)
-  - [개발상식](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Development_common_sense)
-  - [자료구조](https://github.com/JaeYeopHan/for_beginner/tree/master/DataStructure)
-  - [네트워크](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Network)
-  - [운영체제](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/OS)
-  - [데이터베이스](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Database)
-  - [디자인패턴](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/DesignPattern)
-  - [알고리즘](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Algorithm)
+  - [개발상식](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Development_common_sense)
+  - [자료구조](https://github.com/jiyeonkim7/for_beginner/tree/master/DataStructure)
+  - [네트워크](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Network)
+  - [운영체제](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/OS)
+  - [데이터베이스](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Database)
+  - [디자인패턴](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/DesignPattern)
+  - [알고리즘](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Algorithm)
 - [Part 2. Language](#part-2-language)
-  - [Java](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Java)
-  - [JavaScript](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/JavaScript)
-  - [Python](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Python)
+  - [Java](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Java)
+  - [JavaScript](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/JavaScript)
+  - [Python](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Python)
 - [Part 3. 분야별 정리](#part-3-분야별)
-  - [FrontEnd](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/FrontEnd)
-  - [iOS](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/iOS)
+  - [FrontEnd](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/FrontEnd)
+  - [iOS](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/iOS)
 - [그 외 좋은 자료 추천](#그-외-좋은-자료)
 
 </br>
@@ -54,7 +54,7 @@
 
 ### :sparkles: HELP
 
-##### :pray: [HOW TO CONTRIBUTE](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
+##### :pray: [HOW TO CONTRIBUTE](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
 
 ##### :star: 이 저장소는 PR 과 star 를 먹고 자랍니다.
 
@@ -64,7 +64,7 @@
 
 ---
 
-### [면접에서 받았던 질문들](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/issues/59)
+### [면접에서 받았던 질문들](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/issues/59)
 
 해당 Issue 에서 실제로 받았던 면접 질문들을 공유할 수 있습니다.
 
@@ -72,7 +72,7 @@
 
 # Part 1. 전산 기초
 
-## :bulb: 개발상식 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Development_common_sense)
+## :bulb: 개발상식 [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Development_common_sense)
 
 - 객체 지향 프로그래밍이란 무엇인가?
 - RESTFul API 란?
@@ -83,7 +83,7 @@
 
 </br>
 
-## :bulb: 자료구조 [Link](https://github.com/JaeYeopHan/for_beginner/tree/master/DataStructure)
+## :bulb: 자료구조 [Link](https://github.com/jiyeonkim7/for_beginner/tree/master/DataStructure)
 
 - Array vs LinkedList
 - Stack and Queue
@@ -114,7 +114,7 @@
 
 </br>
 
-## :bulb: 네트워크 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Network)
+## :bulb: 네트워크 [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Network)
 
 - GET, POST 방식의 차이점
 - TCP 3-way-handshake
@@ -126,7 +126,7 @@
 
 </br>
 
-## :bulb: 운영체제 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/OS)
+## :bulb: 운영체제 [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/OS)
 
 - 프로세스와 스레드의 차이
 - 스케줄러의 종류
@@ -160,7 +160,7 @@
 
 </br>
 
-## :bulb: 데이터베이스 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Database)
+## :bulb: 데이터베이스 [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Database)
 
 - 데이터베이스
   - 데이터베이스를 사용하는 이유
@@ -200,16 +200,16 @@
 
 </br>
 
-## :bulb: Design Pattern [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/DesignPattern)
+## :bulb: Design Pattern [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/DesignPattern)
 
 - Singleton
 
 </br>
 
-## :bulb: Algorithm (알고리즘) [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Algorithm)
+## :bulb: Algorithm (알고리즘) [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Algorithm)
 
 - 손코딩 및 코딩 테스트 대비  
-  => 대부분의 내용이 코드이기 때문에 별도의 [Java Algorithm Training Repository](https://github.com/JaeYeopHan/algorithm_basic_java)에 저장합니다.
+  => 대부분의 내용이 코드이기 때문에 별도의 [Java Algorithm Training Repository](https://github.com/jiyeonkim7/algorithm_basic_java)에 저장합니다.
 - 코딩 테스트를 위한 Tip
 - 문제 해결을 위한 전략적 접근
 - Sorting Algorithm
@@ -227,7 +227,7 @@
 
 # Part 2. Language
 
-## :gem: Java [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Java)
+## :gem: Java [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Java)
 
 - JVM 에 대해서 / GC 의 원리
 - Collection
@@ -245,7 +245,7 @@
 
 </br>
 
-## :gem: JavaScript [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/JavaScript)
+## :gem: JavaScript [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/JavaScript)
 
 - JavaScript Event Loop
 - Hoisting
@@ -261,7 +261,7 @@
   - JavaScript 와 관련된 인터뷰 관련 내용들을 정리해놓은 자료입니다.
     </br>
 
-## :gem: Python [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Python)
+## :gem: Python [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Python)
 
 - Generator
 - 클래스를 상속했을 때 메서드 실행 방식
@@ -288,7 +288,7 @@
 
 # Part 3. 분야별
 
-## :large_orange_diamond: Front-End [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/FrontEnd)
+## :large_orange_diamond: Front-End [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/FrontEnd)
 
 - 브라우저의 작동 원리
 - Document Object Model
@@ -312,7 +312,7 @@
 
 </br>
 
-## :large_orange_diamond: iOS [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/iOS)
+## :large_orange_diamond: iOS [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/iOS)
 
 - App Life Cycle
 - View Life Cycle
@@ -340,7 +340,7 @@
 
 ## 그 외 좋은 자료
 
-- [미세먼지 같은 면접 팁](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Tip)
+- [미세먼지 같은 면접 팁](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Tip)
 - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 - [mission-peace/interview repository](https://github.com/mission-peace/interview)  
   => 각종 알고리즘에 대한 코드와 동영상 강의 링크를 제공합니다. (영어)
@@ -365,4 +365,4 @@
 
 ### LICENSE
 
-[MIT](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/LICENSE)
+[MIT](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/blob/master/LICENSE)
