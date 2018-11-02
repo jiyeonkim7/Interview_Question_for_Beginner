@@ -5,7 +5,7 @@
 * [Sorting Algorithm](#sorting-algorithm)
 * [Prime Number Algorithm](#prime-number-algorithm)
 
-[뒤로](https://github.com/jiyeonkim7/for_beginner)
+[뒤로](https://github.com/jiyeonkim7/Interview_Question_for_Beginner)
 
 ## 코딩 테스트를 위한 Tip
 
@@ -53,7 +53,7 @@
 
 특정 접근법이 효과적이지 않다고 느끼면 다른 접근 방식을 시도 할 때가 있습니다. 물론 너무 쉽게 포기해서는 안됩니다. 그러나 열매를 맺지 않고도 유망한 생각이 들지 않는 접근법에 몇 분을 소비했다면, 백업하고 다른 것을 시도해보십시오. 저는 덜 접근한 지원자보다 한참 더 많이 나아간 지원자를 많이 보았습니다. 즉, (모두 평등 한) 다른 사람들이 좀 더 기민한 접근 방식을 포기해야 한다는 것을 의미합니다.
 
-[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#algorithm)
+[뒤로](https://github.com/jiyeonkim7/Interview_Question_for_Beginner)/[위로](#algorithm)
 
 </br>
 
@@ -152,7 +152,7 @@ greedy 는 각 단계마다 지금 당장 가장 좋은 방법만을 선택하�
 
 [프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략](http://www.yes24.com/24/Goods/8006522?Acode=101)
 
-[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#algorithm)
+[뒤로](https://github.com/jiyeonkim7/Interview_Question_for_Beginner)/[위로](#algorithm)
 
 </br>
 
@@ -299,7 +299,7 @@ Count Sort 는 말 그대로 몇 개인지 개수를 세어 정렬하는 방식�
 
 * [Sorting Algorithm 을 비판적으로 바라보자](http://asfirstalways.tistory.com/338)
 
-[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#algorithm)
+[뒤로](https://github.com/jiyeonkim7/Interview_Question_for_Beginner)/[위로](#algorithm)
 
 </br>
 
@@ -373,7 +373,7 @@ Count Sort 는 말 그대로 몇 개인지 개수를 세어 정렬하는 방식�
 
 #### [code](https://github.com/alstn2468/BaekJoon_Online_Judge/blob/master/1900~1999/1929.c)
 
-[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#algorithm)
+[뒤로](https://github.com/jiyeonkim7/Interview_Question_for_Beginner)/[위로](#algorithm)
 
 </br>
 
@@ -399,7 +399,7 @@ O(N!) : 크기가 N 인 순열
 * https://www.codewars.com
 * https://app.codility.com/programmers/
 
-[뒤로](https://github.com/jiyeonkim7/for_beginner)/[위로](#algorithm)
+[뒤로](https://github.com/jiyeonkim7/Interview_Question_for_Beginner)/[위로](#algorithm)
 
 </br>
 

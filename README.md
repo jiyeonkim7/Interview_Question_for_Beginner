@@ -27,7 +27,7 @@
 - [면접에서 받았던 질문들](#면접에서-받았던-질문들)
 - [Part 1. 전산 기초](#part-1-전산-기초)
   - [개발상식](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Development_common_sense)
-  - [자료구조](https://github.com/jiyeonkim7/for_beginner/tree/master/DataStructure)
+  - [자료구조](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/DataStructure)
   - [네트워크](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Network)
   - [운영체제](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/OS)
   - [데이터베이스](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Database)
@@ -62,12 +62,13 @@
 
 </br>
 
-</br>
-
-
 ### [면접에서 받았던 질문들](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/issues/59)
 
 해당 Issue 에서 실제로 받았던 면접 질문들을 공유할 수 있습니다.
+
+</br>
+
+</br>
 
 ---
 
@@ -84,7 +85,7 @@
 
 </br>
 
-## :bulb: 자료구조 [Link](https://github.com/jiyeonkim7/for_beginner/tree/master/DataStructure)
+## :bulb: 자료구조 [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/DataStructure)
 
 - Array vs LinkedList
 - Stack and Queue
