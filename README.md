@@ -26,15 +26,15 @@
 - [What is this?](#what-is-this)
 - [면접에서 받았던 질문들](#면접에서-받았던-질문들)
 - [Part 1. 전산 기초](#part-1-전산-기초)
-  - [개발상식](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Development_common_sense)
+  - [개발상식](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Development_common_sense)
   - [자료구조](https://github.com/jiyeonkim7/for_beginner/tree/master/DataStructure)
-  - [네트워크](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Network)
-  - [운영체제](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/OS)
-  - [데이터베이스](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Database)
-  - [디자인패턴](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/DesignPattern)
+  - [네트워크](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Network)
+  - [운영체제](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/OS)
+  - [데이터베이스](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Database)
+  - [디자인패턴](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/DesignPattern)
   - [알고리즘](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Algorithm)
 - [Part 2. Language](#part-2-language)
-  - [Java](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Java)
+  - [Java](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Java)
   - [JavaScript](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/JavaScript)
   - [Python](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Python)
 - [Part 3. 분야별 정리](#part-3-분야별)
@@ -51,6 +51,8 @@
 예비 개발자들 또는 개발자들의 기술 면접 준비를 위한 자료를 정리해놓은 저장소입니다. 개발이라는 분야를 모두 담지는 못했습니다. 그저 가이드라인으로 참고해주시면 감사하겠습니다. 또한 제가 개인적으로 면접을 준비하면서 정리한 내용이라 잘못된 부분이 있을 수 있습니다. 이런 부분들에 대해서는 `Pull Request` or `Issue`로 참여해주시면 정말 감사하겠습니다. 주제와 관련된 좋은 참고 자료를 추가하는 것도 가능합니다. 해당 Repository 에서 학습을 하시다가 생기는 질문은 `Issue`에 올려주세요!
 
 > 취준생 여러분의 건승을 기원합니다 :thumbsup:
+
+</br>
 
 ### :sparkles: HELP
 
@@ -71,7 +73,7 @@
 
 # Part 1. 전산 기초
 
-## :bulb: 개발상식 [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Development_common_sense)
+## :bulb: 개발상식 [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Development_common_sense)
 
 - 객체 지향 프로그래밍이란 무엇인가?
 - RESTFul API 란?
@@ -113,7 +115,7 @@
 
 </br>
 
-## :bulb: 네트워크 [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Network)
+## :bulb: 네트워크 [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Network)
 
 - GET, POST 방식의 차이점
 - TCP 3-way-handshake
@@ -125,7 +127,7 @@
 
 </br>
 
-## :bulb: 운영체제 [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/OS)
+## :bulb: 운영체제 [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/OS)
 
 - 프로세스와 스레드의 차이
 - 스케줄러의 종류
@@ -159,7 +161,7 @@
 
 </br>
 
-## :bulb: 데이터베이스 [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Database)
+## :bulb: 데이터베이스 [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Database)
 
 - 데이터베이스
   - 데이터베이스를 사용하는 이유
@@ -199,7 +201,7 @@
 
 </br>
 
-## :bulb: Design Pattern [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/DesignPattern)
+## :bulb: Design Pattern [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/DesignPattern)
 
 - Singleton
 
@@ -226,7 +228,7 @@
 
 # Part 2. Language
 
-## :gem: Java [Link](https://github.com/jiyeonkim7/Beginner_for_interview/tree/master/Java)
+## :gem: Java [Link](https://github.com/jiyeonkim7/Interview_Question_for_Beginner/tree/master/Java)
 
 - JVM 에 대해서 / GC 의 원리
 - Collection
