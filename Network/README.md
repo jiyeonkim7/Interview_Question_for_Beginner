@@ -1,9 +1,9 @@
 # Part 1-3 Network
 
-* [HTTP 의 GET 과 POST 비교](#http의-get과-post-비교)
+* [HTTP 의 GET 과 POST 비교](#http-의-get-과-post-비교)
 * [TCP 3-way-handshake](#tcp-3-way-handshake)
-* [TCP 와 UDP 의 비교](#tcp와-udp의-비교)
-* [HTTP 와 HTTPS](#http와-https)
+* [TCP 와 UDP 의 비교](#tcp-와-udp-의-비교)
+* [HTTP 와 HTTPS](#http-와-https)
   * HTTP 의 문제점들
 * [DNS Round Robin 방식](#dns-round-robin-방식)
 * [웹 통신의 큰 흐름](#웹-통신의-큰-흐름)
